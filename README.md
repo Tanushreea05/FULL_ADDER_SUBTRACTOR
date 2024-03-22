@@ -86,6 +86,7 @@ endmodule
 
 
 ## FULL SUBTRACTOR:
+![full sub op](https://github.com/Tanushreea05/FULL_ADDER_SUBTRACTOR/assets/138849166/97a0df23-a058-4486-9132-ad025eb2db06)
 
 
 **Result:**
